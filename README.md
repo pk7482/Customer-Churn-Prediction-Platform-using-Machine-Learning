@@ -1,16 +1,14 @@
 Customer Churn Prediction using Machine Learning
-Project Overview
 
+Project Overview
 This project is an end-to-end Machine Learning application that predicts whether a customer is likely to churn based on their demographic information, service usage, contract details, and billing information.
 
 The project includes data preprocessing, feature engineering, machine learning model training, model evaluation, and an interactive Streamlit dashboard for making customer churn predictions.
 
 Objective
-
 The main objective of this project is to identify customers who are likely to leave a company so that businesses can take early customer retention actions.
 
 Dataset
-
 The project uses the Telco Customer Churn dataset.
 
 The dataset contains information such as:
